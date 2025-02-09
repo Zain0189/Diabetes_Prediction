@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#result {
+    font-size: 1.2em;
+    font-weight: bold;
+}
